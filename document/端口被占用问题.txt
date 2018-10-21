@@ -1,0 +1,6 @@
+1.端口被占用的解决方法：
+netstat -aon|findstr "5037"
+taskkill /T /F /PID 13724（其中123724为查找到的占用的端口号）
+
+2.重载方法：
+右击----Generate---Override Method---选择要重载的函数。
