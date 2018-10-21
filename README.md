@@ -24,7 +24,11 @@
 
 
 ## 补充
-文档和最后软件安装包：https://github.com/25Dong/Draw/tree/master/document
+1.文档和最后软件安装包：https://github.com/25Dong/Draw/tree/master/document
+
+2.安装包我也备份到云盘了：
+链接：https://pan.baidu.com/s/1leuhpjFUMWEuvMOrvMOzxA 
+提取码：0uww
 
 ## 再啰嗦一句
 本项目不会再更新，且行且珍惜~
